@@ -1,0 +1,8 @@
+CIE 1931 standard observer data, 380–700 nm sampled at 5 nm.
+Source: Colour Science dataset, CIE 1931 2 Degree Standard Observer.
+https://github.com/colour-science/colour/blob/develop/colour/colorimetry/datasets/cmfs.py
+Dataset references CVRL Older CIE Standards: http://cvrl.ioo.ucl.ac.uk/cie.htm
+CIE dataset description: https://cie.co.at/datatable/cie-1931-colour-matching-functions-2-degree-observer
+Background colours outside sRGB are approximated by clipping negative linear sRGB components and normalising.
+The displayed xy coordinates use the standard sRGB D65 RGB-to-XYZ matrix.
+CMYK conversion is a basic algebraic estimate, not an ICC-profile conversion.
